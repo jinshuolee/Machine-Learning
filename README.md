@@ -23,4 +23,5 @@
 在尋找hyper-parameter tuning的過程中，中間嘗試很多次使用GridSearch和Cross-Validation來調整最佳參數，但是結果不如預期，因此就嘗試將樹的數量和深度調高，學習率調低一點來調整參數，重要特徵值的部分和同學討論後都不同，因此也是多嘗試用不同的特徵值下去訓練，得到最好的結果。驗證模型的訓練結果就是察看分數，由於F1數值與kaggle的分數不一定會一樣，於是先用程式同時查看F1 score 和accuracy分數避免單一分數影響過大，通常越高分訓練結果也會越好，查看訓練的結果後再調整參數。
 
 ![image alt](https://github.com/jinshuolee/Machine-Learning/blob/main/confusion_matrix.png?raw=true)
+
 根據confusion matrix結果，TP=447、FN=67、FP=83、TN=469，計算結果精確率0.88，大部分都預測正確，召回率略低為0.85，覆蓋率也是很高，F1分數為0.86也表示在精度和召回率之間有個好的平衡。
