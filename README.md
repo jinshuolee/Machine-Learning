@@ -1,4 +1,4 @@
-<img width="1162" height="542" alt="image" src="https://github.com/user-attachments/assets/5c24cffb-daa2-4234-a00d-674bbd59af56" /># 用機器學習進行校舍耐震能力評估
+# 用機器學習進行校舍耐震能力評估
 
 介紹
 https://github.com/jinshuolee/Machine-Learning/blob/main/figure%201.png?raw=true
