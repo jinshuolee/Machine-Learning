@@ -1,4 +1,4 @@
-# 用機器學習進行校舍耐震能力評估
+# 透過機器學習進行校舍耐震能力評估
 
 ## 介紹
 ![image alt](https://github.com/jinshuolee/Machine-Learning/blob/main/figure%201.png?raw=true)
